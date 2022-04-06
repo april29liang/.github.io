@@ -53,7 +53,8 @@ I have rich practical experiences as an urban planner. I have been involved in 6
 - **Do historic administrative divisions relate to mutual perceptions of residents from 21 southern Jiangsu counties today?** 12/2018-02/2019
   <br>
   Retrieved mutual comments from threads on Baidu Tieba (one of the most popular internet forums in China) and historical records of administrative divisions according to Chinese historical maps. Implemented QAP correlation analysis on administrative division networks formed by spatial and semantic relations respectively. Visualized administrative divisions across time and mutual perceptions nowadays, along with narratives, statistical summaries and charts
-  [[Visualization](./assets/img/tx.jpg)]
+  <br>
+  <img src="./assets/img/tx.jpg" width="496" height="354">
 
 ## Honors and Prizes
 - **Excellent Undergraduate Student of Shanghai** *awarded by Shanghai Municipal Education Commission* 06/2020
