@@ -20,12 +20,13 @@ I am a Ph.D. student at ...
   Engaged in the Waterfront Area Planning Project in Longquan City as a core team member[[Project Info](https://www.onetenth.cn/en/cities/p_f992b662a4c3d36c3a92f7c7bd14cbd2)]. Discovered local cultural spaces, applied the cultural landscape theory and spatial analysis in the local culture revitalization, and carried out architecture programming of 10 future public waterfront venues.
 - **Aug. 2020 - Mar.2021** Urban Planner at [[Shanghai TIANHUA Urban Planning and Design Co., Ltd](https://www.thape.com/?locale=en)]
   <br>
+  Responsible for several urban planning projects:Chengdu Beihu Bamboo Industry Area Planning Project[[Project Info](https://www.thape.com/works/60)], Suzhou Lujia Subway Station TOD Project, Zhangzhou Longhai Fishery Port and Industry Area Planning Project, Hainan Lingao yacht port and yacht industry area Planning Project. Mapped regional competition patterns of industries, estimated amounts of future customer groups (e.g., tourists, residents) and the building area for residential or commercial uses, made real estate financial analysis; communicated plans with real estate developers and local government officials
 
-## Publications
+## Research Experience
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Effects of home and workplace built environments on park usage: A case study of Shanghai** 09/2019-06/2020
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+Geocoded addresses of each individual’s home and workplace and calculated their shortest distances; Collected and processed park usage frequency, social-economic data and health information. Quantified built environment factors (e.g., mixed land-use index, street cross density) based on POI (Point of Interest) data mining. Implemented a Gradient Boosting Decision Tree model to analyze the non-linear impact of urban built environment on park usage frequency
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
