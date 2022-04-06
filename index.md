@@ -8,15 +8,18 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Urban Big Data Analytics** 
+- **Public Transportation**
+- **Urban Networks**
+- **Built-environment**
 
-## News
+## Work Experience
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Mar. 2021 - Jun.2021** Urban Planner at [[Shanghai One-tenth Art Company](https://www.onetenth.cn/en/home/)]
+  <br>
+  Engaged in the Waterfront Area Planning Project in Longquan City as a core team member[[Project Info](https://www.onetenth.cn/en/cities/p_f992b662a4c3d36c3a92f7c7bd14cbd2)]. Discovered local cultural spaces, applied the cultural landscape theory and spatial analysis in the local culture revitalization, and carried out architecture programming of 10 future public waterfront venues.
+- **Aug. 2020 - Mar.2021** Urban Planner at [[Shanghai TIANHUA Urban Planning and Design Co., Ltd](https://www.thape.com/?locale=en)]
+  <br>
 
 ## Publications
 
