@@ -21,10 +21,14 @@ I have rich practical experiences as an urban planner. I have been involved in 6
 
 ## Work Experience
 
-- **Mar. 2021 - Jun.2021** Urban Planner at [[Shanghai One-tenth Art Company](https://www.onetenth.cn/en/home/)]
+- **Mar. 2021 - Jun.2021** 
+  <br>
+  **Urban Planner** at [[Shanghai One-tenth Art Company](https://www.onetenth.cn/en/home/)]
   <br>
   Engaged in the Waterfront Area Planning Project in Longquan City as a core team member[[Project Info](https://www.onetenth.cn/en/cities/p_f992b662a4c3d36c3a92f7c7bd14cbd2)]. Discovered local cultural spaces, applied the cultural landscape theory and spatial analysis in the local culture revitalization, and carried out architecture programming of 10 future public waterfront venues.
-- **Aug. 2020 - Mar.2021** Urban Planner at [[Shanghai TIANHUA Urban Planning and Design Co., Ltd](https://www.thape.com/?locale=en)]
+- **Aug. 2020 - Mar.2021** 
+  <br>
+  **Urban Planner** at [[Shanghai TIANHUA Urban Planning and Design Co., Ltd](https://www.thape.com/?locale=en)]
   <br>
   Responsible for several urban planning projects:Chengdu Beihu Bamboo Industry Area Planning Project[[Project Info](https://www.thape.com/works/60)], Suzhou Lujia Subway Station TOD Project, Zhangzhou Longhai Fishery Port and Industry Area Planning Project, Hainan Lingao yacht port and yacht industry area Planning Project. Mapped regional competition patterns of industries, estimated amounts of future customer groups (e.g., tourists, residents) and the building area for residential or commercial uses, made real estate financial analysis; communicated plans with real estate developers and local government officials
 
