@@ -36,13 +36,13 @@ I have rich practical experiences as an urban planner. I have been involved in 6
 
 - **Effects of home and workplace built environments on park usage: A case study of Shanghai** 09/2019-06/2020 
   <br>
-  [Project Info](https://github.com/april29liang/Homepage/blob/main/assets/Encorage%20Trips%20to%20Green%20Spaces_Jiaqi%20Liang.pdf)]
+  [[Project Info](https://github.com/april29liang/Homepage/blob/main/assets/Encorage%20Trips%20to%20Green%20Spaces_Jiaqi%20Liang.pdf)]
   <br>
   Geocoded addresses of each individual’s home and workplace and calculated their shortest distances; Collected and processed park usage frequency, social-economic data and health information. Quantified built environment factors (e.g., mixed land-use index, street cross density) based on POI (Point of Interest) data mining. Implemented a Gradient Boosting Decision Tree model to analyze the non-linear impact of urban built environment on park usage frequency
 
 - **How the Location Selection of High-speed Railway Stations Influences Station Area Development in China?** 09/2017-09/2020
   <br>
-  [Project Info](https://github.com/april29liang/Homepage/blob/4bc8a9637f563c55bbd4f172be9c6c3e9ff994ea/assets/HSR%20and%20station%20area_Jiaqi%20Liang.pdf)]
+  [[Project Info](https://github.com/april29liang/Homepage/blob/4bc8a9637f563c55bbd4f172be9c6c3e9ff994ea/assets/HSR%20and%20station%20area_Jiaqi%20Liang.pdf)]
   <br>
   Established the group project as the leader; Archived and preprocessed social-economic, NPP-VIIRS nighttime light imagery, and POI data related to high-speed railway stations at both county and city levels; Used geocoding services to enrich heterogeneous raw data with their geographic information. Used focal statistics to measure station area development based on night activity; Implemented multivariate regression analysis and Difference-in-Difference estimation to determine the statistical importance of station construction based on panel data ranging from 2012 to 2016
 
@@ -52,16 +52,16 @@ I have rich practical experiences as an urban planner. I have been involved in 6
 
 - **Mapping World Cruise Port Network** 12/2018-03/2019
   <br>
-   <br>
-  [Project Info](https://github.com/april29liang/Homepage/blob/03a2881cb8ec6c11574e13e9cf6638c72e9142be/assets/Mapping%20Cruise%20Network_Jiaqi%20Liang.pdf)]
+  [[Project Info](https://github.com/april29liang/Homepage/blob/03a2881cb8ec6c11574e13e9cf6638c72e9142be/assets/Mapping%20Cruise%20Network_Jiaqi%20Liang.pdf)]
   <br>
   Performed world cruise data scraping, including starting city, destination and itinerary information; Geocoded port addresses by using Google Map API. Calculated the in- and out-degree centrality of each port based on social network modeling, and analyzed the core-periphery structure of the network. Visualized geographic patterns of market share with respect to different cruise companies 
 
 - **Do historic administrative divisions relate to mutual perceptions of residents from 21 southern Jiangsu counties today?** 12/2018-02/2019
   <br>
+  [[Project Info](https://github.com/april29liang/Homepage/blob/8b498cfba8799077339175b282aa59bafd57addb/assets/map_en.pdf)]
+  <br>
   Retrieved mutual comments from threads on Baidu Tieba (one of the most popular internet forums in China) and historical records of administrative divisions according to Chinese historical maps. Implemented QAP correlation analysis on administrative division networks formed by spatial and semantic relations respectively. Visualized administrative divisions across time and mutual perceptions nowadays, along with narratives, statistical summaries and charts
   <br>
-  <img src="./assets/img/tx.jpg" width="496" height="354">
 
 ## Honors and Prizes
 - **Excellent Undergraduate Student of Shanghai** *awarded by Shanghai Municipal Education Commission* 06/2020
