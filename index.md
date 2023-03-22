@@ -14,13 +14,19 @@ I have rich practical experiences as an urban planner. I have been involved in 6
 
 ## Research Interests
 
+- **Urban Planning & Semantics** 
 - **Urban Big Data Analytics** 
 - **Public Transportation**
 - **Urban Networks**
 - **Built-environment**
 
 ## Work Experience
-
+- **Mar. 2021 - Jun.2021** 
+  <br>
+  **Urban Planning Intern** at [[The KPA Group, Pleasanton, CA](https://thekpagroup.com/home)]
+  <br>
+  Assessed public facilities on-site, documented data, and completed sustainability checklists; Drafted sustainable strategies based on LEED and WELL standards; Wrote technical reports on net zero carbon emission; Built predictive models for city population and staff growth, which were accepted by the KPA Group as the standardized procedure for future projects; Created 3D models of facilities for sunlight, thermal, and energy analysis; Complied citywide facility planning proposals for 10 Northern California cities
+  
 - **Mar. 2021 - Jun.2021** 
   <br>
   **Urban Planner** at [[Shanghai One-tenth Art Company](https://www.onetenth.cn/en/home/)]
